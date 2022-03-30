@@ -1,0 +1,22 @@
+POST /transaction/store HTTP/1.1
+Accept:             application/json
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uz;q=0.6
+Connection:         keep-alive
+Content-Length:     4
+Content-Type:       application/json
+Cookie:             uid=H8Foj2Zfw8rcftXeVV2UHUAo81WKVtoJ; XSRF-TOKEN=eyJpdiI6InluY1F1WG52c3VLbWEzaW12K2FmMmc9PSIsInZhbHVlIjoiS3N1K0trZk9aSTQ1OVZQSFZJeC9McFg2SnVTQXNuSVgyK3E3S2RrcUZ4dnZJSE1RdHBzWkZvbFdJTE43UHZUb3NWSkZVUjhUaE8wKzFjdVFUaXlzNG1aUDdEUlhOa0FPMXZxYlJldVEyNnZiRHR6WVZ1ODM0V0VXelc1YjdhNEEiLCJtYWMiOiJhZDExMmNhMmVhMThmMzc4OTE5NmY0ZWYwNTZlMjZhNTk3Zjk3Y2NmMzZkOTYzY2YwMDgwMzUyZmM0ZWI3YzIwIiwidGFnIjoiIn0%3D; supermiya_session=eyJpdiI6ImlQSW1aVjhaRGJocEgwcDBVZ3dGaXc9PSIsInZhbHVlIjoicUxuV2lZUVVkUXNkZS9MUUx3dURHMlQrS1FBSFFZYVNKbVNFOUk0MjJOWFpHc0ZJRE5kYzVaVFRuTm1ndWZRSHJsejJxZHh1TzREeWZubTNBWEQyL2VQUlVXcndoREtGNk1BeVg3WTl6NUJzMVQ2djVDSVpqN2RHUkdiUHllQ20iLCJtYWMiOiJhMjg3ODk0YzYwN2RiMmQwYWQwZWVlNjBkMzk3YmNmZDg4ZGRhNWRmMDk1OTcyODFkNTUxZmY0MThjMDdhMGMwIiwidGFnIjoiIn0%3D
+Host:               127.0.0.1:8000
+Origin:             http://127.0.0.1:8000
+Referer:            http://127.0.0.1:8000/checkout?name=sadasdd&phone=12313&course=supermiya
+Sec-Ch-Ua:          "Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "macOS"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     same-origin
+User-Agent:         Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+X-Csrf-Token:       bEmWYaWsQWXUXdh8YkhfSx4kLkxld9ZQLFPHxBv4
+Cookie: uid=; XSRF-TOKEN=bEmWYaWsQWXUXdh8YkhfSx4kLkxld9ZQLFPHxBv4; supermiya_session=n8eevIB7P5E2O7NYSqyrLvv3GJQjOLXrVSy7dpRA
+
+data
